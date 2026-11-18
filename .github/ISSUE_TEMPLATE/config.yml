@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Oficjalna strona Remote Managera
+    url: https://proszczok.pl/remotemenager/
+    about: Pobieranie, instrukcja i aktualna wersja dodatku.
+  - name: Polityka prywatności
+    url: https://proszczok.pl/privacy.html
+    about: Informacje o prywatności usług proszczok.pl.

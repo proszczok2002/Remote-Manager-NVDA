@@ -1,0 +1,24 @@
+name: Propozycja funkcji
+description: Zaproponuj zmianę lub nowe działanie dodatku.
+title: "[Pomysł] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Jaki problem ma rozwiązać ta funkcja?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proponowane rozwiązanie
+      description: Opisz, jak funkcja powinna działać z klawiaturą i NVDA.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Inne rozważane rozwiązania
+
