@@ -5,13 +5,15 @@ Repozytorium rozwojowe i historia robocza dodatku nie są publikowane na GitHubi
 
 ## Najnowsza wersja
 
-**Remote Manager 1.45** dla NVDA 2025.1 lub nowszego.
+**Remote Manager 1.46** dla NVDA 2025.1 lub nowszego.
 
-- [Pobierz z oficjalnej strony autora](https://proszczok.pl/remotemenager/remoteManager-1.45.nvda-addon)
+- [Pobierz z oficjalnej strony autora](https://proszczok.pl/remotemenager/remoteManager-1.46.nvda-addon)
 - [Strona dodatku i instrukcja](https://proszczok.pl/remotemenager/)
-- SHA-256: `f30cccb0ddea5204a92c54905c826291ef12a1cf3fb3ef175aeb347cd5d18c27`
+- SHA-256: `01cf8930aab22b4f19362624b505115a22ca64622f783ff5cf5c73b050a87ceb`
 
 Paczka obsługuje 32-bitowe NVDA 2025.x oraz 64-bitowe NVDA 2026.1–2026.3.
+
+Gdy ktoś steruje Twoim komputerem przez „Pomoc do tego komputera”, wybierz w menu dodatku `Schowek > Wyślij do komputera kontrolującego`, aby odesłać pomocnikowi tekst ze schowka. To samo polecenie jest w podmenu „Pomoc do tego komputera”.
 
 ## Co potrafi dodatek?
 
